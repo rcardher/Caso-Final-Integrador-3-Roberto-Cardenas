@@ -1,0 +1,4 @@
+(defun saludo ()
+    (print "Hola mundo"))
+
+(saludo)
